@@ -1,0 +1,7 @@
+﻿  GameForm.cpp
+D:\Учёба\1 курс\Курсач\Python\Python\Python\GameForm.cpp(184,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учёба\1 курс\Курсач\Python\Python\Python\GameForm.cpp(302,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  GameForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Python.vcxproj -> D:\Учёба\1 курс\Курсач\Python\Python\x64\Debug\Python.exe

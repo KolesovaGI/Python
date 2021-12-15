@@ -1,0 +1,9 @@
+D:\КП Игра\Python\Python\Debug\Python.vcxprojAssemblyReference.cache
+D:\КП Игра\Python\Python\Debug\Python.GameForm.resources
+D:\КП Игра\Python\Python\Debug\Python.vcxproj.GenerateResource.cache
+E:\Python\Python\Debug\Python.vcxprojAssemblyReference.cache
+E:\Python\Python\Debug\Python.GameForm.resources
+E:\Python\Python\Debug\Python.vcxproj.GenerateResource.cache
+D:\Python\Python\Debug\Python.vcxprojAssemblyReference.cache
+D:\Python\Python\Debug\Python.GameForm.resources
+D:\Python\Python\Debug\Python.vcxproj.GenerateResource.cache
